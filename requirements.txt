@@ -1,3 +1,4 @@
 httpx==0.28.1
 nudenet==3.4.2
 python-telegram-bot==22.7
+gunicorn
